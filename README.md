@@ -3,6 +3,12 @@ Missão Certificação Nivel 5
 https://youtu.be/yvcj0AV3P-k
 ![Estacio](https://user-images.githubusercontent.com/112280190/205799198-d852df72-4aaa-45bb-947a-08651a5856ab.jpg)
 
+Desenvolvimento Full Stack da Estácio
+periodo 2022.3
+grupo 22
+alunos: daniel 
+aluno: michel
+aluno: wendel 
 
 import tkinter as tk
 from tkinter import ttk
