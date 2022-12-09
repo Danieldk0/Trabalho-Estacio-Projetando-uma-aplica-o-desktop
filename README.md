@@ -5,10 +5,9 @@ https://youtu.be/yvcj0AV3P-k
 
 Desenvolvimento Full Stack da Estácio
 Perio  2022.3Turma  22
-Aluno: Daniel
-Aluno: Michel
-Aluno: Wendel
-
+Aluno: Daniel  Matricula :202208611931
+Aluno:Wendel Matricula  :202211314111
+Aluno: Michel Matricula: 202202874126
 
 
 
